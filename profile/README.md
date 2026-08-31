@@ -1,3 +1,10 @@
+<!-- Decorative wordmark; the following H1 supplies the accessible project name. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/edgeloom-wordmark-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/edgeloom-wordmark-light.svg">
+  <img alt="" src="assets/edgeloom-wordmark-light.svg" width="240">
+</picture>
+
 # EdgeLoom
 
 **Open tools and reviewable evidence for smart-home edge-driver artifacts.**
@@ -13,6 +20,19 @@ and review.
 [Documentation](https://github.com/edgeloom-oss/edgeloom/tree/main/docs) ·
 [Python package](https://pypi.org/project/edgeloom/) ·
 [Project discussions](https://github.com/edgeloom-oss/edgeloom/discussions)
+
+## Evidence snapshot
+
+These are public research and project-health signals, not adoption metrics.
+
+| Evidence | Current public state |
+| --- | --- |
+| Research basis | **119** hidden attributes · **31** devices · **16** manufacturers — [CCS 2025 study sample](https://ittc.ku.edu/~bluo/pubs/xu2025ccs.pdf), not EdgeLoom coverage. |
+| Product release | [**v0.1.1**](https://github.com/edgeloom-oss/edgeloom/releases/tag/v0.1.1) · [PyPI **0.1.1**](https://pypi.org/project/edgeloom/) · Python 3.11+ |
+| Engineering | [**6** CLI workflows](https://github.com/edgeloom-oss/edgeloom#commands) · [passing `main` CI](https://github.com/edgeloom-oss/edgeloom/actions/runs/33340349456) · [Apache-2.0](https://github.com/edgeloom-oss/edgeloom/blob/main/LICENSE) |
+| Project structure | **2** active implementation repositories — [core](https://github.com/edgeloom-oss/edgeloom) + [bootstrap catalog](https://github.com/edgeloom-oss/edgeloom-catalog); excludes profile infrastructure and the archived predecessor. |
+
+*Project status checked 30 August 2026; refresh these rows at release milestones.*
 
 ## Projects
 
