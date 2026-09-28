@@ -28,11 +28,11 @@ These are public research and project-health signals, not adoption metrics.
 | Evidence | Current public state |
 | --- | --- |
 | Research basis | **119** hidden attributes · **31** devices · **16** manufacturers — [CCS 2025 study sample](https://ittc.ku.edu/~bluo/pubs/xu2025ccs.pdf), not EdgeLoom coverage. |
-| Product release | [**v0.1.1**](https://github.com/edgeloom-oss/edgeloom/releases/tag/v0.1.1) · [PyPI **0.1.1**](https://pypi.org/project/edgeloom/) · Python 3.11+ |
-| Engineering | [**6** CLI workflows](https://github.com/edgeloom-oss/edgeloom#commands) · [passing `main` CI](https://github.com/edgeloom-oss/edgeloom/actions/runs/33340349456) · [Apache-2.0](https://github.com/edgeloom-oss/edgeloom/blob/main/LICENSE) |
+| Product release | [**v0.2.0**](https://github.com/edgeloom-oss/edgeloom/releases/tag/v0.2.0) · [PyPI **0.2.0**](https://pypi.org/project/edgeloom/0.2.0/) · Python 3.11+ |
+| Engineering | [**6** CLI workflows](https://github.com/edgeloom-oss/edgeloom#commands) · [passing `v0.2.0` release-commit CI](https://github.com/edgeloom-oss/edgeloom/actions/runs/36372151093) · [Apache-2.0](https://github.com/edgeloom-oss/edgeloom/blob/main/LICENSE) |
 | Project structure | **2** active implementation repositories — [core](https://github.com/edgeloom-oss/edgeloom) + [bootstrap catalog](https://github.com/edgeloom-oss/edgeloom-catalog); excludes profile infrastructure and the archived predecessor. |
 
-*Project status checked 30 August 2026; refresh these rows at release milestones.*
+*Project status checked 27 September 2026; refresh these rows at release milestones.*
 
 ## Projects
 
